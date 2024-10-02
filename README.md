@@ -9,7 +9,7 @@ A cloud-based drive storage application built with Next.js, Convex, and Clerk fo
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -63,6 +63,4 @@ Contributions are welcome! To contribute to this project, please follow these st
 5. Push to the branch (`git push origin feature/YourFeature`)
 6. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
